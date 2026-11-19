@@ -37,6 +37,4 @@ To demonstrate my ability to work with data throughout the analytical process, f
 
 ---
 
-**Author:** Cynthia Lebelela
-
 [GitHub Profile](https://github.com/CynthiaLebelela)
